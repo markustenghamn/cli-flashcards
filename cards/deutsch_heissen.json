@@ -1,0 +1,41 @@
+{
+  "title": "Deutsch Heißen",
+  "cards": [
+    {
+      "phrase" : "ich [heißen]",
+      "example" : "",
+      "answer" : "ich heiße",
+      "description" : ""
+    },
+    {
+      "phrase" : "du [heißen]",
+      "example" : "",
+      "answer" : "du heißt",
+      "description" : ""
+    },
+    {
+      "phrase" : "er/sie/es [heißen]",
+      "example" : "",
+      "answer" : "er/sie/es heißt",
+      "description" : ""
+    },
+    {
+      "phrase" : "wir [heißen]",
+      "example" : "",
+      "answer" : "wir heißen",
+      "description" : ""
+    },
+    {
+      "phrase" : "ihr [heißen]",
+      "example" : "",
+      "answer" : "ihr heißt",
+      "description" : ""
+    },
+    {
+      "phrase" : "sie/Sie [heißen]",
+      "example" : "",
+      "answer" : "sie/Sie heißen",
+      "description" : ""
+    }
+  ]
+}

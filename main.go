@@ -2,37 +2,101 @@ package main
 
 import (
 	"bufio"
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
+	"log"
 	"math/rand"
 	"os"
 	"os/exec"
+	"path"
 	"runtime"
 )
 
-var langStrings = map[string]string{
-	"ich [heißen]":       "ich heiße",
-	"du [heißen]":        "du heißt",
-	"er/sie/es [heißen]": "er/sie/es heißt",
-	"wir [heißen]":       "wir heißen",
-	"ihr [heißen]":       "ihr heißt",
-	"sie/Sie [heißen]":   "sie/Sie heißen",
+type Subject struct {
+	Title string `json:"title"`
+	Cards []Card `json:"cards"`
 }
 
+type Card struct {
+	Phrase      string `json:"phrase"`
+	Example     string `json:"example"`
+	Answer      string `json:"answer"`
+	Description string `json:"description"`
+}
+
+var pathname = "./cards"
+var filename = "deutsch_heissen.json"
+
 func main() {
+	fileNavigator()
+
+	// Open our jsonFile
+	jsonFile, err := os.Open(path.Join(pathname, filename))
+	// if we os.Open returns an error then handle it
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	fmt.Println("Successfully Opened " + filename)
+	// defer the closing of our jsonFile so that we can parse it later on
+	defer jsonFile.Close()
+
+	// read our opened xmlFile as a byte array.
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+
+	// we initialize our Users array
+	var subject Subject
+
+	// we unmarshal our byteArray which contains our
+	// jsonFile's content into 'users' which we defined above
+	err = json.Unmarshal(byteValue, &subject)
+	if err != nil {
+		log.Println(err)
+		return
+	}
+
 	for {
-		question := randString(langStrings)
+		println("Press ctrl+c to quit")
+		card := randString(subject.Cards)
 		reader := bufio.NewReader(os.Stdin)
-		fmt.Print(question)
+		fmt.Print(card.Phrase)
 		_, _ = reader.ReadString('\n')
-		fmt.Println(langStrings[question])
+		fmt.Println(card.Answer)
 		_, _ = reader.ReadString('\n')
 		callClear()
 	}
 }
 
-func randString(m map[string]string) string {
+func fileNavigator() {
+	log.Println("Please type the name of a file you would like to practice")
+
+	files, err := ioutil.ReadDir(pathname)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	for _, f := range files {
+		fmt.Println(f.Name())
+		filename = f.Name()
+	}
+
+	reader := bufio.NewReader(os.Stdin)
+	typedString, _ := reader.ReadString('\n')
+
+	for _, f := range files {
+		if f.Name() == typedString {
+			log.Println("You have selected " + f.Name())
+
+		}
+	}
+
+}
+
+func randString(m []Card) Card {
 	i := rand.Intn(len(m))
-	for k := range m {
+	for _, k := range m {
 		if i == 0 {
 			return k
 		}
@@ -51,17 +115,29 @@ func init() {
 	clear["linux"] = func() {
 		cmd := exec.Command("clear") //Linux example, its tested
 		cmd.Stdout = os.Stdout
-		cmd.Run()
+		err := cmd.Run()
+		if err != nil {
+			log.Println(err)
+			return
+		}
 	}
 	clear["windows"] = func() {
 		cmd := exec.Command("cmd", "/c", "cls") //Windows example, its tested
 		cmd.Stdout = os.Stdout
-		cmd.Run()
+		err := cmd.Run()
+		if err != nil {
+			log.Println(err)
+			return
+		}
 	}
 	clear["darwin"] = func() {
 		cmd := exec.Command("clear") //Linux example, its tested
 		cmd.Stdout = os.Stdout
-		cmd.Run()
+		err := cmd.Run()
+		if err != nil {
+			log.Println(err)
+			return
+		}
 	}
 }
 

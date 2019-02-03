@@ -1,9 +1,9 @@
-Learn Deutsch
+CLI Flashcards
 =============
 
-Simple application to practice German phrases.
-
-![Learn German](https://i.gyazo.com/1e91d1c9d1bf2aa38f6a6e6a6b4ac1aa.gif)
+Simple application I made to practice German but it could be used for
+anything. Simply make a .json file and place it in the cards folder 
+following the structure of the initial files already present.
 
 
 To run
