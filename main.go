@@ -64,8 +64,12 @@ func main() {
 		if card.Example != "" {
 			fmt.Print("\n", card.Example)
 		}
+		fmt.Print("\n")
 		_, _ = reader.ReadString('\n')
-		fmt.Println(card.Answer)
+		fmt.Print(card.Answer)
+		if card.Description != "" {
+			fmt.Print("\n", card.Description)
+		}
 		_, _ = reader.ReadString('\n')
 	}
 }
