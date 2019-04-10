@@ -1,0 +1,3582 @@
+{
+  "title": "Deutsch A1 Vocabulary",
+  "description": "This is some of the A1 vocabulary for basic German. I am writing this as I am learning so please let me know if you find mistakes.",
+  "cards": [
+    {
+      "phrase" : "Ab",
+      "example" : "Ab morgen muss ich arbeiten",
+      "answer" : "from, as of",
+      "description" : "As of this morning I must work"
+    },
+    {
+      "phrase" : "Aber",
+      "example" : "Ich bin oft im Büro, aber nur für wenige Stunden.",
+      "answer" : "But",
+      "description" : "I'm often in the office but only for a short time"
+    },
+    {
+      "phrase" : "Abfahren",
+      "example" : "Wir fahren um zwölf Uhr ab.",
+      "answer" : "go, travel, leave",
+      "description" : "We are leaving at at twelve"
+    },
+    {
+      "phrase" : "die Abfahrt",
+      "example" : "Vor der Abfahrt rufe ich an.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Abgeben",
+      "example" : "Ich muss meine Schlüssel abgeben.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Abholen",
+      "example" : "Wann kann ich den Schrank bei dir abholen?",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Abholen",
+      "example" : "Wann kann ich den Schrank bei dir abholen?\nWir müssen noch meinen Bruder abholen.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "der Absender",
+      "example" : "Da ist ein Brief für dich ohne Absender.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Achtung",
+      "example" : "Achtung! Das dürfen Sie nicht tun.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "die Adresse,-en",
+      "example" : "Können Sie mir seine Adresse sagen?",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "all-",
+      "example" : "Alles Gute!",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "all-",
+      "example" : "Alles Gute!\nDas ist alles.\nSind alle da?\nAlle Freunde kommen.\nHast du alles?",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Allein",
+      "example" : "Er kommt allein.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Also",
+      "example" : "Also, es ist so: ...\nEr hat Zeit, also muss er uns helfen.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Alt",
+      "example" : "Wie alt sind Sie?\nSie sehen aber nicht so alt aus.\nMein Auto ist schon sehr alt.\nWir wohnen in einem sehr alten Haus.\nKöln ist eine alte Stadt.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "das Alter",
+      "example" : "Alter: 26 Jahre.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "die Ansage, -n",
+      "example" : "Hören Sie die Ansagen.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "der Anschluss",
+      "example" : "In Mannheim haben Sie Anschluss nach Saarbrücken.\nIst das die Anmeldung für einen Telefonanschluss?",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Antworten",
+      "example" : "Er antwortet nicht.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "die Antwort, -en",
+      "example" : "Er gibt leider keine Antwort.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "die Anzeige, -n",
+      "example" : "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Anziehen",
+      "example" : "Ich muss mich noch anziehen.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase" : "Anziehen",
+      "example" : "Ich muss mich noch anziehen.",
+      "answer" : "",
+      "description" : ""
+    },
+    {
+      "phrase": "das Apartment, -s ",
+      "example": "Wir haben ein Apartment gemietet.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Apfel, -",
+      "example": "Ä Ein Pfund Äpfel bitte.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Appetit Guten Appetit!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "arbeiten ",
+      "example": "Wo arbeiten Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Arbeit, -en ",
+      "example": "Mein Bruder sucht Arbeit.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "arbeitslos Es gibt bei uns viele ",
+      "example": "Leute, die schon lange arbeitslos",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Arbeitsplatz, -ä, e ",
+      "example": "An meinem Arbeitsplatz fehlt ein Drucker.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Arm, -e ",
+      "example": "Mein Arm tut weh.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Arzt, -",
+      "example": "Ä, e Morgen habe ich einen Termin bei meiner Ärztin.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "auch ",
+      "example": "Ich bin auch Spanier.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "auf ",
+      "example": "Die Kinder spielen auf der Straße.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Aufgabe, -n ",
+      "example": "Das ist eine schwere Aufgabe.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "aufhören ",
+      "example": "Der Kurs hört in einer Woche auf.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "auf sein ",
+      "example": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "aufstehen ",
+      "example": "Ich muss immer um vier Uhr aufstehen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Aufzug, -ü, e ",
+      "example": "In diesem Haus gibt es keinen Aufzug.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Auge, -n ",
+      "example": "Er hat blaue Augen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "aus ",
+      "example": "Er kommt aus Brasilien.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Ausflug Morgen machen wir einen Ausflug nach Heidelberg.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ausfüllen ",
+      "example": "Füllen Sie bitte dieses Formular aus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Ausgang Wo ist der Ausgang?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Auskunft, -ü, e ",
+      "example": "Können Sie mir eine Auskunft geben?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Ausland Fahren Sie ins Ausland?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Ausländer, - ",
+      "example": "SInd Sie Ausländerin?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ausländisch ",
+      "example": "Leider habe ich nur ausländisches Geld.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ausmachen ",
+      "example": "Mach bitte das Licht aus!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Aussage, -n ",
+      "example": "Ist die Aussage richtig oder falsch?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "aussehen ",
+      "example": "Das sieht schön aus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "aus sein ",
+      "example": "Das Licht ist aus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "aussteigen ",
+      "example": "Wo muss ich aussteigen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Ausweis Hier ist mein Ausweis.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "(sich) ausziehen",
+      "example": "Zieh die Schuhe aus, bitte!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Auto, -s ",
+      "example": "Er kommt mit dem Auto.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Autobahn, -en ",
+      "example": "Wo geht‘s hier bitte zur Autobahn?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Automat Die Fahrkarten gibt es nur am Automaten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "automatisch ",
+      "example": "Du musst nichts machen. Das geht automatisch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Baby, -s ",
+      "example": "Mein Kind ist noch ein Baby.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Bäckerei Ich geh mal schnell zur Bäckerei.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Bad Wir haben kein großes Bad.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Bahn Wir fahren lieber mit der Bahn.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Bahnhof Komme ich hier zum Bahnhof?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Bahnsteig Auf welchem Bahnsteig fährt der Zug?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bald ",
+      "example": "Ich komme bald.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Balkon Die Wohnung hat auch einen kleinen Balkon.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Banane, -n ",
+      "example": "Drei Bananen, bitte!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Bank\t Die Bank schließt schon um vier Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bar ",
+      "example": "Muss ich bar zahlen oder geht‘s auch mit Karte?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Bauch Seit gestern tut mir der Bauch weh.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Baum, -ä, e ",
+      "example": "Vorsicht, fahr nicht an den Baum!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Beamte, -n ",
+      "example": "Fragen Sie die Beamtin an Schalter acht!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bedeuten ",
+      "example": "Was bedeutet das Wort?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "beginnen\t ",
+      "example": "Das Spiel beginnt um 15.30 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bei ",
+      "example": "Offenbach liegt bei Frankfurt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "beide ",
+      "example": "Beide Eltern arbeiten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Bein, -e ",
+      "example": "Mein rechtes Bein tut weh.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Beispiel, -e ",
+      "example": "Kannst du mir ein Beispiel sagen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zum Beispiel/z. ",
+      "example": "B.\t Viele meiner Verwandten, z. B. meine beiden",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bekannt ",
+      "example": "Picasso ist sehr bekannt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der/die Bekannte, -n \t ",
+      "example": "Ein Bekannter von mir heißt Klaus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bekommen ",
+      "example": "Haben Sie meinen Brief bekommen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "benutzen ",
+      "example": "Die Aufzüge bitte nicht benutzen!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Beruf, -e ",
+      "example": "Was sind Sie von Beruf?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "besetzt ",
+      "example": "Die Nummer ist immer besetzt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "besichtigen ",
+      "example": "Ich möchte gern den Dom besichtigen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "besser ",
+      "example": "Es geht mir schon besser.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "best- ",
+      "example": "Am besten treffen wir uns morgen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "besuchen ",
+      "example": "Darf ich dich besuchen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Bett, -en ",
+      "example": "Wir brauchen noch ein Kinderbett.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bezahlen ",
+      "example": "Wo muss ich bezahlen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Bier Noch ein Bier bitte.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Bild, -er ",
+      "example": "Hast du ein Bild von deinem Sohn?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "billig ",
+      "example": "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Birne, -n ",
+      "example": "Ein Kilo Birnen, bitte!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bis ",
+      "example": "Ich fahre nur bis Stuttgart.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bisschen Ich spreche ",
+      "example": "Englisch, Französisch und ein bisschen",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bitte Eine ",
+      "example": "Tasse Kaffee, bitte!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Bitte, -n ",
+      "example": "Ich habe noch eine Bitte.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bitten ",
+      "example": "Darf ich Sie um etwas bitten?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bitter ",
+      "example": "Der Kaffee schmeckt bitter.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bleiben ",
+      "example": "Ich bleibe heute zu Hause.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Bleistift, -e ",
+      "example": "Hast du einen Bleistift?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Blick Von diesem Hotel hat man einen guten Blick auf den",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Blume, -n ",
+      "example": "Gefallen dir die Blumen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Bogen Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "böse ",
+      "example": "Sie ist böse auf mich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "brauchen ",
+      "example": "Brauchst du die Zeitung noch?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "breit ",
+      "example": "Wie breit ist der Schrank?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Brief, -e ",
+      "example": "Haben Sie einen Brief für mich?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Briefmarke, -n ",
+      "example": "Kaufst du bitte Briefmarken bei der Post.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "bringen ",
+      "example": "Bringen Sie mi",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "daneben ",
+      "example": "Du kennst doch die Post. Daneben ist die Bank.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "danken ",
+      "example": "Ich danke Ihnen für die Einladung.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Dank Vielen Dank!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "danke Soll ich ",
+      "example": "Ihnen helfen? - Nein, danke!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dann Ich muss noch schnell zur ",
+      "example": "Post, dann komme ich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Datum Bitte schreiben Sie noch das Datum auf das Formular.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dauern ",
+      "example": "Wie lange dauert der Film?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dein- ",
+      "example": "Ist das dein Auto?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Hier ist der ",
+      "example": "Brief, den du suchst.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dich ",
+      "example": "Die Blumen sind für dich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dies- ",
+      "example": "Ich nehme lieber diesen Kuchen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dir ",
+      "example": "Gefallen dir die Blumen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Disco Heute abend gehen wir in die Disco tanzen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Doktor Meine Tochter ist krank. Wir gehen zum Doktor.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Doppelzimmer Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Dorf, -ö, er ",
+      "example": "Meine Familie lebt in einem Dorf.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dort, -her, -hin Deine ",
+      "example": "Tasche kannst du dorthin stellen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "draußen ",
+      "example": "Wollen wir draußen sitzen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "drucken ",
+      "example": "Bitte drucke das Formular für mich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Drucker, – ",
+      "example": "Mein Drucker ist kaputt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "drücken\t Drück hier, dann geht der ",
+      "example": "Computer an.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "durch ",
+      "example": "Am besten gehen Sie durch die Breite Straße.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Durchsage, -n ",
+      "example": "Ich habe die Durchsage nicht verstanden.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "dürfen ",
+      "example": "Sie dürfen hier nicht rauchen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Durst Hast du etwas zu trinken? Ich habe großen Durst.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Dusche\t Unsere Wohnung hat nur eine Dusche.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Ecke, -n ",
+      "example": "An der nächsten Ecke links.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Ehemann, ä, er\t ",
+      "example": "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Ei, -er ",
+      "example": "Möchtest du ein Ei zum Frühstück?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "eilig ",
+      "example": "Hast du es eilig?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ein- ",
+      "example": "Ich nehme ein Bier. Willst du auch eins?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "einfach ",
+      "example": "Die Prüfung ist ganz einfach.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Hin und zurück? – ",
+      "example": "Nein, bitte nur einfach.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Eingang Der Eingang ist um die Ecke.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "einkaufen ",
+      "example": "Ich muss noch für morgen einkaufen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "einladen ",
+      "example": "Darf ich Sie zu einem Kaffee einladen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Einladung Danke für die Einladung!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Flasche, -n ",
+      "example": "Eine Flasche Bier, bitte.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Fleisch Fleisch mag ich nicht.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "fliegen ",
+      "example": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "abfliegen ",
+      "example": "Wann fliegst du ab?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Abflug\t Der Abflug ist um 11.20 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Flughafen Kannst du mich zum Flughafen bringen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Flugzeug Das Flugzeug aus Berlin kommt heute später an.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Formular, -e ",
+      "example": "Sie müssen dieses Formular ausfüllen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Foto, -s ",
+      "example": "Darf ich ein Foto machen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "fragen ",
+      "example": "Er möchte Sie etwas fragen. Wann kommen Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Frage, -n ",
+      "example": "Ich habe eine Frage.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Frau, -en ",
+      "example": "Das ist Frau Becker.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Guten ",
+      "example": "Tag, Frau Schmitt!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "frei ",
+      "example": "Ist der Platz noch frei?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Freizeit In meiner Freizeit spiele ich oft Fußball.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "fremd ",
+      "example": "Das weiß ich nicht; ich bin fremd hier.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "(sich) freuen\t ",
+      "example": "Ich freue mich auf den Urlaub.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Freund, -e ",
+      "example": "Das ist ein Freund von mir.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "früher ",
+      "example": "Früher waren wir oft zusammen im Kino.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "frühstücken ",
+      "example": "Am Sonntag frühstücke ich gern im Bett.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Frühstück Möchtest du ein Ei zum Frühstück?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Führung Die Führung durch das Haus beginnt in 3 Minuten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "für ",
+      "example": "Das ist für Sie.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Fuß, -ü, e ",
+      "example": "Der linke Fuß tut mir weh.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Fußball Spielt ihr gerne Fußball?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Garten Wir haben leider keinen Garten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Gast, -ä, e ",
+      "example": "Am Wochenende haben wir mehrere Gäste.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "geben ",
+      "example": "Kannst du mir bitte deinen Kugelschreiber geben?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "geboren ",
+      "example": "Ich bin in Zagreb geboren.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Geburtsjahr\t ",
+      "example": "Das Geburtsjahr Ihres Sohnes, bitte?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Geburtsort Bitte schreiben Sie Ihren Geburtsort auf das Formular.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Geburtstag Herzlichen Glückwunsch zum Geburtstag!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gefallen ",
+      "example": "Das gefällt mir.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gegen ",
+      "example": "Fahr nicht gegen den Baum!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gehören ",
+      "example": "Wem gehört das?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Geld Hast du noch Geld?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Gemüse Gemüse brauchen wir auch noch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Gepäck Wollen Sie Ihr Gepäck mitnehmen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gerade\t ",
+      "example": "Da kommt er ja gerade.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "geradeaus ",
+      "example": "Gehen Sie immer geradeaus!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gern(e)\t ",
+      "example": "Ich gehe gerne einkaufen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Geschäft, -e \t ",
+      "example": "Die Geschäfte schließen um 18.30 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Geschenk, -e ",
+      "example": "Danke für das schöne Geschenk.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Geschwister (pl.) \t Ich habe leider keine Geschwister.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Gespräch, -e \t ",
+      "example": "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gestern ",
+      "example": "Gestern war ich krank.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gestorben ",
+      "example": "Meine Frau ist gestern gestorben.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Getränk, -e ",
+      "example": "Mein Lieblingsgetränk ist Tomatensaft.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Gewicht Bei „Gewicht“ schreibst du: 62 Kilo.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gewinnen ",
+      "example": "Wer gewinnt das Spiel?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Glas, -ä, er ",
+      "example": "Bitte noch ein Glas Wein!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gleich ",
+      "example": "Das ist mir gleich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Gleis, -e \t ",
+      "example": "Der ICE nach Berlin hält heute an Gleis 12.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Glück Viel Glück!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "glücklich ",
+      "example": "Meine Kinder sind glücklich verheiratet.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Glückwunsch Herzlichen Glückwunsch zum Geburtstag.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gratulieren ",
+      "example": "Ich gratuliere dir!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "grillen ",
+      "example": "Heute grillen wir im Garten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "groß ",
+      "example": "Mein Bruder und ich sind gleich groß.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Größe Haben Sie das auch in Größe 40?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Großeltern (pl.) \t Meine Großeltern leben in Japan.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Großmutter Meine Großmutter heißt Eva.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Großvater Mein Großvater ist schon 80.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Gruppe, -n \t ",
+      "example": "Die erste Gruppe beginnt um 16 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Gruß, -ü, e ",
+      "example": "Viele Grüße an Ihre Frau.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gültig ",
+      "example": "Der Pass ist nicht mehr gültig.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "günstig ",
+      "example": "Dort gibt es günstige Angebote.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "gut ",
+      "example": "Das finde ich gut.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Haar, -e ",
+      "example": "Sie hat lange Haare.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "haben ",
+      "example": "Ich habe ein neues Auto.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Hähnchen, - ",
+      "example": "Ein Hähnchen mit Pommes bitte!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Halbpension Möchten Sie Vollpension oder Halbpension?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Halle Wir treffen uns in Halle B",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "hallo ",
+      "example": "Hallo Inge! Wie geht’s?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "halten ",
+      "example": "Dieser Zug hält nicht in Rüdesheim.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Haltestelle An der nächsten Haltestelle müssen Sie aussteigen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Hand, -ä, e ",
+      "example": "Er gibt mir die Hand.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Handy, -s ",
+      "example": "In der Schule bitte die Handys ausmachen!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Haus, -ä, er ",
+      "example": "In welchem Haus wohnst du?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Hausaufgabe,-n ",
+      "example": "Kannst du mir bei den Hausaufgaben helfen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Hausmann\t ",
+      "example": "Die Hausfrau/der Hausmann wäscht, kocht und kauft",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Heimat Ich komme aus der Schweiz. Das ist meine Heimat.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "heiraten ",
+      "example": "Meine Schwester heiratet einen Japaner.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "heißen\t ",
+      "example": "Ich heiße Charlotte Meier.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "helfen Können ",
+      "example": "Sie mir helfen, bitte?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "hell\t ",
+      "example": "Im Sommer ist es bis 21 Uhr hell.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Herd In der neuen Küche fehlt noch der Herd.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Herr, -en ",
+      "example": "Guten Tag, Herr Sommer!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "herzlich ",
+      "example": "Herzlichen Glückwunsch!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "heute ",
+      "example": "Heute ist ein schöner Tag.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "hier Hier ist 06131-553221, ",
+      "example": "Pamela Linke.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Hilfe Hilfe! Bitte helfen Sie mir!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "hinten ",
+      "example": "Die Tür zum Aussteigen ist hinten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Hobby, -s ",
+      "example": "Meine Hobbys sind Wandern und Schwimmen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "hoch ",
+      "example": "Der Mount Everest ist 8.880 Meter hoch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Hochzeit Zur dieser Hochzeit kommen mehr als fünfzig Gäste.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "holen ",
+      "example": "Ich hole zwei Flaschen Wasser aus der Küche.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "hören ",
+      "example": "Hör mal! Was ist das?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Hotel, -s \t ",
+      "example": "Im Urlaub sind wir in einem Hotel am Meer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Hund, -e \t ",
+      "example": "Der Hund ist noch jung.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Hunger Ich habe Hunger! Wann ist das Essen fertig?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ich ",
+      "example": "Ich heiße Veronika.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ihr/ihm/ihn\t ",
+      "example": "Gib ihr/ihm bitte das Buch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "immer ",
+      "example": "Frau Bast kommt immer zu spät.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "in ",
+      "example": "Ich wohne in Wiesbaden.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Komm, wir gehen ins ",
+      "example": "Kino.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Information, -en ",
+      "example": "Wenn Sie Fragen haben, gehen Sie zur Information.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "international\t ",
+      "example": "Unser Deutschkurs ist international: Silvana kommt",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "aus Italien, ",
+      "example": "Conchi aus Spanien, Yin aus China ...",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Internet Das findest du im Internet.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ja\t ",
+      "example": "Sind Sie Herr Watanabe? – Ja.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Jacke, -n ",
+      "example": "Zieh dir eine Jacke an. Es ist kalt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "jed-\t ",
+      "example": "Blumen kannst du in jedem Bahnhof kaufen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "jetzt\t ",
+      "example": "Jetzt machen wir eine Pause.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Job, -s ",
+      "example": "Jenny hat einen neuen Job bei der Post.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Jugendliche, -n ",
+      "example": "Viele Jugendliche kaufen gern ein.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "jung\t ",
+      "example": "Claudia ist 21. – Was? Noch so jung?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Junge, -n ",
+      "example": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Kaffee Zum Frühstück trinke ich immer Kaffee.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kaputt ",
+      "example": "Das Glas war teuer. Es geht sehr leicht kaputt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Karte, -n ",
+      "example": "Ich schreibe meinen Bekannten eine Karte aus dem",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Ich möchte auch etwas essen. ",
+      "example": "Bringen Sie mir die Karte,",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "(Kredit)-",
+      "example": "Karte, -n \t Kann ich auch mit Karte (be-) zahlen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Kartoffel, -n ",
+      "example": "Für Pommes frites braucht man Kartoffeln.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Kasse Zahlen Sie bitte an der Kasse.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kaufen ",
+      "example": "Tim kauft sich ein neues Auto.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kein ",
+      "example": "Es gibt keine Eintrittskarten mehr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kennen Kennen ",
+      "example": "Sie diese Frau? – Nein, leider nicht.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kennenlernen ",
+      "example": "Wir sind neu hier. Wir möchten Sie kennenlernen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Kind, -er ",
+      "example": "Wie viele Kinder haben Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Kindergarten Die kleine Laura geht schon in den Kindergarten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Kino, -s ",
+      "example": "Wir sehen heute Abend im Kino einen schönen Film.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Kiosk ",
+      "example": "Am Kiosk bekommen Sie Getränke, Zigaretten und",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "klar ",
+      "example": "Kommst du mit? – Klar!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Klasse In unserer Klasse sind fünfundzwanzig Schüler.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Kleidung ",
+      "example": "Wo finde ich Kleidung? – Jacken im ersten, Jeans im",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zweiten ",
+      "example": "Stock.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "klein ",
+      "example": "Eltville ist eine kleine Stadt am Rhein.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kochen ",
+      "example": "Herr Georgi kann gut kochen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Koffer, – ",
+      "example": "Ist das Ihr Koffer?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Kollege, -n ",
+      "example": "Wie heißt die neue Kollegin?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kommen ",
+      "example": "Woher kommen Sie? – Aus Frankreich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "können ",
+      "example": "Ich kann Deutsch und Russisch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Konto Das Geld überweisen wir am ersten März auf Ihr Konto.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Kopf Mein Kopf tut weh!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kosten ",
+      "example": "Wie viel kostet das? – 10 Euro.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "krank Ich kann heute nicht zur ",
+      "example": "Arbeit kommen, ich bin krank",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "und liege im ",
+      "example": "Bett.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kriegen ",
+      "example": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Küche Der neue Herd kommt in die Küche.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Kuchen Ich nehme ein Stück Kuchen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Kugelschreiber Hast du einen Kugelschreiber für mich?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Kühlschrank ",
+      "example": "Haben wir noch Milch? – Ja, im Kühlschrank.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kulturell ",
+      "example": "Ich bin kulturell interessiert. Ich gehe oft ins Museum.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sich kümmern ",
+      "example": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Kunde, -n ",
+      "example": "Einen Moment, bitte. Ich habe eine Kundin.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Kurs, -e ",
+      "example": "Der Deutschkurs geht bis zum Sommer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "kurz ",
+      "example": "Ricardo hat kurzes Haar.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lachen ",
+      "example": "Die Kinder lachen viel.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Laden, -ä ",
+      "example": "Im Buchladen können Sie Bücher kaufen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Land, -ä, er ",
+      "example": "Italien ist ein schönes Land.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lang ",
+      "example": "Die Jeans ist zu lang.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lange ",
+      "example": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "langsam ",
+      "example": "Könnten Sie bitte etwas langsamer sprechen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "laufen Ich möchte nicht ",
+      "example": "Auto fahren, ich möchte laufen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "laut ",
+      "example": "Nicht so laut! Das Baby schläft.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "leben ",
+      "example": "Sie lebt bei ihrer Schwester.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Leben Das Leben in diesem Land ist teuer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Lebens-",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mittel (pl.)\t ",
+      "example": "Lebensmittel bekommen Sie im Supermarkt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ledig ",
+      "example": "Sind Sie verheiratet? – Nein. Ledig.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "legen ",
+      "example": "Legen Sie das Buch auf den Tisch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Lehrer, – \t ",
+      "example": "Unsere Deutschlehrerin heißt Frau Müller.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "leicht ",
+      "example": "Der Koffer ist leicht.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "leider ",
+      "example": "Leider kann ich nicht kommen. Ich muss zum Arzt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "leise ",
+      "example": "Seid leise. Die anderen schlafen schon.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lernen ",
+      "example": "Wie lange lernen Sie schon Deutsch?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lesen ",
+      "example": "Ich lese ein Buch von García Márquez.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "letzt- ",
+      "example": "Morgen ist der letzte Kurstag.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Leute (pl.) \t In der Disko sind viele Leute.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Licht Wo macht man hier das Licht an?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lieb- Liebe ",
+      "example": "Susanne, lieber Hans,",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lieben ",
+      "example": "Ich liebe dich!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lieber ",
+      "example": "Sie fährt lieber mit der Bahn.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Lied, -er ",
+      "example": "Welches ist dein Lieblingslied?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "liegen\t ",
+      "example": "Um neun Uhr liegt Judith noch im Bett.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "links ",
+      "example": "Gehen Sie die nächste Straße links.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Lkw, -s ",
+      "example": "Dieser Lastkraftwagen ist sehr groß.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Lokal In unserer Straße gibt es ein neues Lokal.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Lösung, -en ",
+      "example": "Die Lösung ist ganz einfach.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "lustig ",
+      "example": "Frau Mertens ist lustig. Sie lacht immer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "machen ",
+      "example": "Was machst du heute Abend?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Mädchen, – ",
+      "example": "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "man ",
+      "example": "Hier darf man nicht rauchen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Mann, -ä, er ",
+      "example": "Mein Mann arbeitet bei der Polizei.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "männlich ",
+      "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Maschine, -n ",
+      "example": "Die Waschmaschine ist günstig.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Meer\t Wir machen Urlaub am Meer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mehr ",
+      "example": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mein ",
+      "example": "Mein Vater ist Arzt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "meist- ",
+      "example": "Die meisten Norddeutschen sind sehr groß.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Mensch, -en ",
+      "example": "Die Menschen sind hier anders als bei uns.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mieten ",
+      "example": "Ich möchte ein Auto mieten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Miete Die Miete für diese Wohnung ist 600 Euro.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Milch Die Milch steht im Kühlschrank.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mit ",
+      "example": "Trinken Sie den Kaffee mit Milch?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mitbringen ",
+      "example": "Ich gehe einkaufen. Soll ich dir was mitbringen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mitkommen ",
+      "example": "Ich gehe ins Kino. Kommst du mit?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mitmachen ",
+      "example": "Warum macht ihr nicht mit?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mitnehmen ",
+      "example": "Nehmen wir meine Schwester ins Kino mit?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Mitte Der Lehrer steht in der Mitte des Klassenzimmers.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Möbel (pl.)\t Sind die Möbel neu?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "möchten ",
+      "example": "Was möchten Sie trinken?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "mögen ",
+      "example": "Magst du Kaffee oder Tee?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "möglich\t ",
+      "example": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Moment Moment mal bitte!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "morgen\t ",
+      "example": "Morgen beginnt die Schule um 10 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "müde ",
+      "example": "Ich bin müde. Ich gehe schlafen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Mund\t Öffnen Sie den Mund.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "müssen\t ",
+      "example": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Mutter, -ü ",
+      "example": "Frau Berghäuser ist die Mutter von Michaela.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nach\t ",
+      "example": "Ich gehe jetzt nach Hause.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nächst- ",
+      "example": "Sehen wir uns nächste Woche?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Name, -n ",
+      "example": "Mein Name ist Thomas Schmidt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nehmen ",
+      "example": "Heute gibt es Hähnchen. Das nehme ich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nein Fährst du auch nach ",
+      "example": "München? – Nein, ich habe keine",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "neu ",
+      "example": "Ich bin der neue Kollege.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nicht ",
+      "example": "Das stimmt nicht.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nichts ",
+      "example": "Das macht nichts.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nie ",
+      "example": "Er kommt nie pünktlich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "noch ",
+      "example": "Vielleicht kommt er noch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "normal 75 kg. ",
+      "example": "Sein Gewicht ist normal.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Nummer, -n ",
+      "example": "Sie haben Zimmer Nummer zwölf.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "nur ",
+      "example": "Ich möchte nur ein Glas Wasser.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "oben ",
+      "example": "Ich wohne oben.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Obst Im Sommer ist das Obst billig.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "oder ",
+      "example": "Wann können Sie kommen – heute oder morgen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "öffnen ",
+      "example": "Ich öffne die Tür.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "geöffnet\t ",
+      "example": "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "oft ",
+      "example": "Petra treffe ich oft.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ohne ",
+      "example": "Ohne Geld kann er nichts kaufen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Öl Den Salat machen wir ohne Öl.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Oma, -s ",
+      "example": "Meine Oma ist schon tot.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Opa, -s ",
+      "example": "Mein Opa heißt Hans.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Ordnung Das ist in Ordnung.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Ort, -e ",
+      "example": "Der Ort liegt am Meer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Papier Hier sind Papier und Bleistift.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Papiere (pl.) \t Haben Sie Ihre Papiere dabei?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Partnerin, -nen ",
+      "example": "Sie ist meine Partnerin.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Party Heute Abend machen wir eine Party.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Pass, -ä, e ",
+      "example": "Im Hotel brauchst du deinen Pass.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Pause, -n \t ",
+      "example": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Plan, -ä, e ",
+      "example": "Ich kaufe mir einen Stadtplan.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Platz, -ä, e ",
+      "example": "Tut mir leid, der Platz ist besetzt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Polizei Holen Sie die Polizei!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Pommes frites (pl.) Die Kinder essen Hähnchen mit Pommes frites.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Post ",
+      "example": "Wo ist die Post, bitte?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Postleitzahl Wie ist Ihre Postleitzahl?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Praktikum Ich mache ein Praktikum bei Siemens.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Praxis",
+      "example": "Die Praxis ist ab acht Uhr geöffnet.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Preis, -e ",
+      "example": "Die Preise sind hoch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Problem, -e ",
+      "example": "Mein Problem ist die Sprache.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Prospekt, -e ",
+      "example": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Prüfung",
+      "example": "Die Prüfung ist am Montag um 8.00 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "pünktlich ",
+      "example": "Der Bus fährt pünktlich um acht Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "rauchen ",
+      "example": "Ich rauche nicht.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Raum, -ä, e ",
+      "example": "Der Unterricht ist in Raum 332.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Rechnung, -en ",
+      "example": "Die Rechnung, bitte.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "rechts ",
+      "example": "Die Schillerstraße ist hier rechts.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "regnen ",
+      "example": "Heute regnet es.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Regen Bei diesem Regen gehe ich nicht raus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Reis Ich esse gern Reis.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "reisen",
+      "example": "Ich reise gern.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Reise",
+      "example": "Wir machen eine Reise nach Österreich.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Reisebüro, -s ",
+      "example": "Mein Mann arbeitet im Reisebüro.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Reiseführer Ich kaufe mir einen Reiseführer von Berlin.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "reparieren ",
+      "example": "Er hat das Fahrrad repariert.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Reparatur Die Reparatur ist sehr teuer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Restaurant, -s ",
+      "example": "Wir essen heute in einem Restaurant.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Rezeption Fragen Sie bitte im Hotel an der Rezeption.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "richtig ",
+      "example": "Habe ich das richtig verstanden?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "riechen ",
+      "example": "Dieser Wein riecht gut.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "ruhig ",
+      "example": "Ich möchte ein ruhiges Zimmer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Saft Möchtest du einen Apfelsaft?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Salat Wie schmeckt dir der Salat?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Salz ",
+      "example": "Herr Ober, kann ich bitte Salz haben?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Satz, -ä, e ",
+      "example": "Dieser Satz ist sehr einfach.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "S-Bahn Ich nehme lieber die S-Bahn.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Schalter Gehen Sie bitte zum Schalter drei!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "scheinen ",
+      "example": "Die Sonne scheint.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "schicken ",
+      "example": "Bitte schicken Sie mir eine E-Mail.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Schild, -er ",
+      "example": "Haben Sie nicht das Schild gesehen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Schinken, – ",
+      "example": "Ich möchte gern ein Schinkenbrot.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "schlafen ",
+      "example": "Ich schlafe meistens acht Stunden.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "schlecht ",
+      "example": "Mir ist schlecht!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Schuh, -e ",
+      "example": "Zieh die Schuhe aus!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Schule Meine Tochter geht schon in die Schule.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Schüler, – ",
+      "example": "In meinem Kurs sind acht Schülerinnen und fünf",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "schwer ",
+      "example": "Ist Ihr Gepäck sehr schwer?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Schwester, -n ",
+      "example": "Meine Schwester kommt am Dienstag.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "schwimmen ",
+      "example": "Ich schwimme jeden Tag einen Kilometer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Schwimmbad Kommst du mit ins Schwimmbad?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der See ",
+      "example": "Komm, wir fahren zum Starnberger See.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sehen ",
+      "example": "Ich kann dich nicht sehen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sehr ",
+      "example": "Danke sehr!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sein ",
+      "example": "Herr Müller ist in seinem Zimmer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "an sein ",
+      "example": "Das Licht ist noch an.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "auf sein ",
+      "example": "Das Fenster ist noch auf.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "weg sein ",
+      "example": "Herr Meier ist schon weg.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zu sein ",
+      "example": "Die Tür ist zu.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "seit ",
+      "example": "Ich wohne seit drei Jahren in Köln.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "selbstständig ",
+      "example": "Er ist selbstständig.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sich ",
+      "example": "Sie müssen sich erst anmelden.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sie ",
+      "example": "Wie heißt sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Sie ",
+      "example": "Wie heißen Sie, bitte?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sitzen ",
+      "example": "Wo sitzen Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "so ",
+      "example": "Sie müssen das so machen!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Sofa Das Sofa ist neu.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sofort ",
+      "example": "Bitte antworten Sie sofort.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Sohn, -ö, e ",
+      "example": "Das ist Hans, mein Sohn.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sollen ",
+      "example": "Soll ich kommen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Sonne Die Sonne scheint.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "später ",
+      "example": "Das können wir später machen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Speisekarte ",
+      "example": "Bringen Sie mir die Speisekarte, bitte.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "spielen ",
+      "example": "Die Kinder spielen draußen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Sport Ich mache viel Sport.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Sprache, -n ",
+      "example": "Welche Sprachen sprichst du?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "sprechen ",
+      "example": "Kann ich (mit) Herrn Klein sprechen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Stadt, -ä, e ",
+      "example": "Heidelberg ist eine alte Stadt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "stehen Ich glaube es nicht, aber es steht in der ",
+      "example": "Zeitung.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Stelle, -n ",
+      "example": "Ich habe eine neue Stelle.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "stellen ",
+      "example": "Stell die Tasche rechts in die Ecke!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Stock",
+      "example": "Unsere Wohnung liegt im ersten Stock.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Straße, -n ",
+      "example": "In welcher Straße wohnen Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Straßenbahn Wo fährt die Straßenbahn ab?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "studieren ",
+      "example": "Ich studiere in Mainz.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Studium Das Studium beginnt im Oktober.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Student, -en ",
+      "example": "Ich bin Studentin.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Stunde, -n ",
+      "example": "Ich bin in einer Stunde zurück.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "suchen ",
+      "example": "Suchst du etwas?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "tanzen ",
+      "example": "Tanzen Sie gern?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Tasche, -n ",
+      "example": "Ich habe die Schlüssel in der Tasche.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Taxi, -s ",
+      "example": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Tee Ich trinke morgens immer Tee.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Teil, -e ",
+      "example": "Lies bitte auch den zweiten Teil.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "telefonieren ",
+      "example": "Darf ich mal telefonieren?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Telefon Haben Sie Telefon?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Termin, -e ",
+      "example": "Am besten machen wir sofort einen Termin.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Test Der Test war einfach.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "teuer ",
+      "example": "Das ist mir zu teuer.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Text, -e ",
+      "example": "Lesen Sie bitte diesen Text.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Thema Wir sprechen heute über das Thema „Essen und",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Ticket, -s ",
+      "example": "Wie viel kostet das Ticket?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Tisch, -e ",
+      "example": "Die Fotos liegen auf dem Tisch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Tochter, -ö ",
+      "example": "Das ist meine Tochter Katharina.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Toilette, -en ",
+      "example": "Wo ist die Toilette, bitte?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Tomate, -n ",
+      "example": "Die Tomate ist noch grün.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "tot ",
+      "example": "Sein Vater ist schon lange tot.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "(sich) treffen ",
+      "example": "Ich treffe in der Stadt einen Kollegen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Treppe, -n ",
+      "example": "Die Toilette? Die Treppe hoch und dann links.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "trinken ",
+      "example": "Möchtest du etwas trinken?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "tschüss ",
+      "example": "Junge Leute sagen meistens „tschüss!“ und nicht",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "„auf ",
+      "example": "Wiedersehen“.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "tun ",
+      "example": "Ich habe noch etwas zu tun.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "über ",
+      "example": "Gehen Sie hier über die Straße.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "übernachten ",
+      "example": "Du kannst bei mir übernachten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "überweisen ",
+      "example": "Sie können das Geld auch überweisen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Uhr",
+      "example": "Es ist vier Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "um ",
+      "example": "Er kommt um sieben Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "umziehen ",
+      "example": "Nächsten Monat ziehen wir um.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "und ",
+      "example": "Peter und Helmut sind meine Söhne.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "unser- ",
+      "example": "Das ist unsere Lehrerin.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "unten ",
+      "example": "Er wohnt ganz unten im Haus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "unter",
+      "example": "Unter uns wohnt eine Familie mit drei Kindern.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Unterricht",
+      "example": "Wir haben Unterricht von 8.00 bis 12.00 Uhr.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "unterschreiben ",
+      "example": "Wo muss ich unterschreiben?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Unterschrift",
+      "example": "Hier fehlt noch Ihre Unterschrift.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Urlaub",
+      "example": "Ich nehme im September Urlaub.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Vater, -ä ",
+      "example": "Mein Vater ist Arbeiter.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "verboten ",
+      "example": "Hier ist Rauchen verboten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "verdienen ",
+      "example": "Ich verdiene 1.500 Euro im Monat.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Verein Es gibt einen neuen Sportverein in der Stadt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "verheiratet ",
+      "example": "Ich bin verheiratet und habe drei Kinder.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "verkaufen ",
+      "example": "Er verkauft sein altes Auto.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Verkäufer, – ",
+      "example": "Meine Mutter ist Verkäuferin im Kaufhaus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "vermieten ",
+      "example": "Die Wohnung ist schon vermietet.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Vermieter",
+      "example": "Unser Vermieter heißt Huber. Er wohnt auch hier.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "verstehen ",
+      "example": "Können Sie mich verstehen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Verwandte, -n ",
+      "example": "Peter besucht seine Verwandten in Polen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "viel ",
+      "example": "Hier regnet es viel.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "vielleicht ",
+      "example": "Ich komme vielleicht mit dem Bus.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "von ",
+      "example": "Das Auto von Felix ist kaputt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "vor ",
+      "example": "Der Termin war vor einer Stunde.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Vorname, -n ",
+      "example": "Ich heiße Müller, mein Vorname ist Eva.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Vorsicht Vorsicht! Da kommt ein Auto.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "(sich) vorstellen ",
+      "example": "Wir wollen uns kennenlernen. Können Sie sich bitte",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Vorwahl Wie ist die Vorwahl von München?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wandern ",
+      "example": "Wir wandern um den Chiemsee.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wann ",
+      "example": "Wann bist du fertig?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "warten ",
+      "example": "Können Sie ein paar Minuten warten?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "warum ",
+      "example": "Warum kommt er nicht?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "was ",
+      "example": "Was ist das?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "was für ein ",
+      "example": "Was für eine Farbe möchten Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "(sich) waschen ",
+      "example": "Wo kann ich mir die Hände waschen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Wasser ",
+      "example": "Ein Glas Wasser, bitte.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "weh tun ",
+      "example": "Ich muss zum Arzt. Mein Bein tut weh.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "weiblich ",
+      "example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Wein ",
+      "example": "Nein danke, ich möchte keinen Wein.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "weit ",
+      "example": "Zum Bahnhof ist es nicht weit.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "weiter ",
+      "example": "Der Bus fährt nicht weiter.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "welch- ",
+      "example": "Welches Buch möchtest du?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Welt Es gibt viele Probleme auf der Welt.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wenig ",
+      "example": "Ich habe leider nur wenig verstanden.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wer ",
+      "example": "Wer ist das?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "werden ",
+      "example": "Mein Sohn will Arzt werden.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das ",
+      "example": "Wetter Wir hatten schlechtes Wetter.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wichtig ",
+      "example": "Dieses Formular ist sehr wichtig.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wie ",
+      "example": "Wie heißt du?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wiederholen ",
+      "example": "Können Sie das bitte wiederholen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Wiederhören",
+      "example": "Wir müssen jetzt Schluss machen.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Wiedersehen",
+      "example": "Auf Wiedersehen!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wie viel ",
+      "example": "Wie viel Milch nehmen Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "willkommen ",
+      "example": "Herzlich willkommen!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Wind Der Wind kommt aus Osten.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wir ",
+      "example": "Wir lernen Deutsch.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wo ",
+      "example": "Wo waren Sie im Urlaub?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "woher ",
+      "example": "Woher kommen Sie?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wohin ",
+      "example": "Wohin fährt dieser Bus?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wohnen ",
+      "example": "Ich wohne in München.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Wohnung, -en ",
+      "example": "Seit wann haben Sie diese Wohnung?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wollen ",
+      "example": "Wollen Sie einen Kaffee trinken?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Wort, -ö, er/-e ",
+      "example": "Ich kenne das Wort nicht.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "wunderbar ",
+      "example": "Das Essen schmeckt wunderbar.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die ",
+      "example": "Zeit Ich habe heute keine Zeit.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zurzeit ",
+      "example": "Zurzeit habe ich sehr viel zu tun.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Zeitung, -en ",
+      "example": "Ich lese gern Zeitung.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "die Zigarette, -n ",
+      "example": "Wie teuer sind die Zigaretten?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "das Zimmer, – ",
+      "example": "Das Zimmer ist groß.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "Öffne im ",
+      "example": "Schlafzimmer das Fenster, bitte!",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der ",
+      "example": "Zoll Wir müssen noch durch den Zoll.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zu ",
+      "example": "Der Bus fährt zum Bahnhof.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zufrieden ",
+      "example": "Ich bin mit der Wohnung zufrieden.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "der Zug, -ü, e ",
+      "example": "Ich fahre gern mit dem Zug.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zurück ",
+      "example": "Einmal Frankfurt und zurück.",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zusammen",
+      "example": "Sollen wir zusammen essen gehen?",
+      "answer": "",
+      "description": ""
+    },
+    {
+      "phrase": "zwischen",
+      "example": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+      "answer": "",
+      "description": ""
+    }
+  ]
+}

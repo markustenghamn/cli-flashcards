@@ -11,6 +11,8 @@ import (
 	"os/exec"
 	"path"
 	"runtime"
+	"strconv"
+	"strings"
 )
 
 type Subject struct {
@@ -26,10 +28,11 @@ type Card struct {
 }
 
 var pathname = "./cards"
-var filename = "deutsch_heissen.json"
+var filename = ""
 
 func main() {
-	fileNavigator()
+	for !fileNavigator() {
+	}
 
 	// Open our jsonFile
 	jsonFile, err := os.Open(path.Join(pathname, filename))
@@ -42,14 +45,10 @@ func main() {
 	// defer the closing of our jsonFile so that we can parse it later on
 	defer jsonFile.Close()
 
-	// read our opened xmlFile as a byte array.
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 
-	// we initialize our Users array
 	var subject Subject
 
-	// we unmarshal our byteArray which contains our
-	// jsonFile's content into 'users' which we defined above
 	err = json.Unmarshal(byteValue, &subject)
 	if err != nil {
 		log.Println(err)
@@ -57,40 +56,47 @@ func main() {
 	}
 
 	for {
+		callClear()
 		println("Press ctrl+c to quit")
 		card := randString(subject.Cards)
 		reader := bufio.NewReader(os.Stdin)
 		fmt.Print(card.Phrase)
+		if card.Example != "" {
+			fmt.Print("\n", card.Example)
+		}
 		_, _ = reader.ReadString('\n')
 		fmt.Println(card.Answer)
 		_, _ = reader.ReadString('\n')
-		callClear()
 	}
 }
 
-func fileNavigator() {
-	log.Println("Please type the name of a file you would like to practice")
+func fileNavigator() bool {
+	log.Println("Please type the name or number of a file you would like to practice")
 
 	files, err := ioutil.ReadDir(pathname)
 	if err != nil {
 		fmt.Println(err)
-		return
+		return false
 	}
 
-	for _, f := range files {
-		fmt.Println(f.Name())
+	for i, f := range files {
+		fmt.Println(i, f.Name())
 		filename = f.Name()
 	}
 
 	reader := bufio.NewReader(os.Stdin)
 	typedString, _ := reader.ReadString('\n')
+	typedString = strings.TrimSuffix(typedString, "\n")
+	fmt.Println("Input " + typedString)
 
-	for _, f := range files {
-		if f.Name() == typedString {
-			log.Println("You have selected " + f.Name())
-
+	for i, f := range files {
+		if f.Name() == typedString || strconv.FormatInt(int64(i), 10) == typedString {
+			fmt.Println("You have selected " + f.Name())
+			filename = f.Name()
+			return true
 		}
 	}
+	return false
 
 }
 
